@@ -67,9 +67,9 @@ A cursor is used to loop through `SubjectRequest`, and the logic above is applie
    git clone https://github.com/your-username/subject-allotment-sql.git
    cd subject-allotment-sql
    
-2.Open SQL_week-5_Task.sql in SQL Server Management Studio or your preferred tool.
+2. Open SQL_week-5_Task.sql in SQL Server Management Studio or your preferred tool.
 
-3.Run the script to:
+3. Run the script to:
 
 Create tables
 
@@ -79,7 +79,7 @@ Create and execute the stored procedure
 
 View updated allotments
 
-🛠️ Technologies
+## 🛠️ Technologies
 SQL Server
 
 Stored Procedures
@@ -88,5 +88,5 @@ Cursors
 
 Data Integrity Logic
 
-📄 License
+## 📄 License
 This project is open-source and available under the MIT License.
