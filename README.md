@@ -67,7 +67,7 @@ A cursor is used to loop through `SubjectRequest`, and the logic above is applie
    git clone https://github.com/your-username/subject-allotment-sql.git
    cd subject-allotment-sql
    
-2. Open SQL_week-5_Task.sql in SQL Server Management Studio or your preferred tool.
+2. Open SQL_week_5_Task.sql in SQL Server Management Studio or your preferred tool.
 
 3. Run the script to:
 
